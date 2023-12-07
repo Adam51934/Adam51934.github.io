@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    height: 200px;
+    width: auto;
+    border-radius: 50%;
+}
+
+.kontener{
+    display: flex;
+    justify-content: center;
+    column-gap: 25px;
+}
+
+.element{
+    padding: 10px;
+}
+
+.zawartosc{
+    height: 94.79vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 50px;
+    font-size: 50px;
+}
+
+.imie{
+    color: chartreuse;
+}
